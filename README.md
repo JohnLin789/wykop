@@ -1,0 +1,2 @@
+# wykop
+wykop.live
